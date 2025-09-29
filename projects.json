@@ -1,14 +1,14 @@
 [
     {
-        "name": "Mi Primer Proyecto",
+        "name": "Figuras",
         "description": "Una breve descripción de lo que hace mi primer proyecto. Explica sus funcionalidades clave y tecnologías utilizadas.",
-        "readmeUrl": "https://github.com/gitarosales/AyPFigurasPHP/blob/main/README.md",
-        "repoUrl": "https://github.com/gitarosales/AyPFigurasPHP"
+        "readmeUrl": "https://github.com/Mianmogo/AyPFigurasPHP/edit/main/README.md",
+        "repoUrl": "https://github.com/Mianmogo/AyPFigurasPHP"
     },
     {
-        "name": "Mi Segundo Proyecto",
+        "name": "Calculadora de Phython",
         "description": "Este es otro proyecto importante. Detalla los problemas que resuelve y cómo lo implementaste.",
-        "readmeUrl": "https://raw.githubusercontent.com/[TuUsuario]/[nombre-del-otro-repo]/main/README.md",
-        "repoUrl": "https://github.com/[TuUsuario]/[nombre-del-repositorio]"
+        "readmeUrl": "https://github.com/Mianmogo/CalculadoraPython/edit/main/README.md",
+        "repoUrl": "https://github.com/Mianmogo/CalculadoraPython"
     }
 ]
